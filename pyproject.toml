@@ -18,7 +18,7 @@ dependencies = [
     "accelerate", "peft", "bitsandbytes",
     "pydantic", "markdown2[all]", "numpy", "scikit-learn",
     "gradio", "gradio_client",
-    "requests", "httpx==0.24.0", "uvicorn", "fastapi",
+    "requests", "httpx", "uvicorn", "fastapi",
     "einops==0.6.1", "einops-exts==0.0.4", "timm",
 ]
 
